@@ -6,7 +6,7 @@ import "./app.css";
 import { App } from "./App.js";
 
 createRoot(document.getElementById("app")).render(
-  <StrictMode>
-    <App />
-  </StrictMode>
+    <StrictMode>
+        <App />
+    </StrictMode>
 );
